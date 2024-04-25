@@ -1,6 +1,6 @@
 # Contributing to Fuel Core
 
-Thanks for your interest in contributing to Fuel Core! This document outlines some the conventions on building, running, and testing Fuel Core.
+Thanks for your interest in contributing to Fuel Core! This document outlines some of the conventions on building, running, and testing Fuel Core.
 
 Fuel Core has many dependent repositories. If you need any help or mentoring getting started, understanding the codebase, or anything else, please ask on our [Discord](https://discord.gg/xfpK4Pe).
 
